@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://basketball-news.herokuapp.com/host-https-basketballreport.net/wp-sitemap.xml
